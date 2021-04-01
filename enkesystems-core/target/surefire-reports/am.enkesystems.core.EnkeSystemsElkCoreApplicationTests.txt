@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: am.enkesystems.core.EnkeSystemsElkCoreApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.537 s - in am.enkesystems.core.EnkeSystemsElkCoreApplicationTests
